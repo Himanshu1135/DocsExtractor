@@ -1,0 +1,7 @@
+image/
+myenv/
+__pycache__/
+Final_results/
+results/
+Image_process.py
+DocsExtInteritor.py
